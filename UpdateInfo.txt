@@ -1,0 +1,11 @@
+<TITLE>비트업</TITLE>
+<VER>1.1</VER>
+<DOWN>http://hangoon.com/drive/비트업.zip</DOWN>
+<STOP>0.5</STOP>
+<STOPTILL>0.5</STOPTILL>
+
+http://drive.google.com/uc?export=view&id=181Y158isUkqsoKT9NlwzdBEuqyhUa9PS
+https://hangoon.github.io/drive/비트업.zip
+http://hangoon.com/drive/비트업.zip
+<PatchNote>
+</PatchNote>
